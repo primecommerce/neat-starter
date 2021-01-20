@@ -6,15 +6,17 @@ description: Capitalize on low hanging fruit to identify a ballpark value added
 author: Surjith S M
 date: 2020-09-01
 tags:
-  - left
-  - center
-  - right
+  - created
 ---
 # This is a Heading h1
 
 ## This is a Heading h2
 
 ###### This is a Heading h6
+
+TEST ADD IMAGE
+
+![DBZ](/static/img/dragonball-z-battle-of-gods.jpg "DBZ")
 
 ## Emphasis
 
